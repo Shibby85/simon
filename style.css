@@ -1,0 +1,58 @@
+
+
+body{
+  background-color: grey;
+}
+
+td{
+  padding: 10px;
+}
+
+h1{
+  font-size: 3.5rem;
+}
+
+.head{
+  text-align: center;
+  margin: auto auto 1rem;
+}
+
+.body{
+  text-align: center;
+  margin: auto;
+}
+
+.low{
+  text-align: center;
+  margin: auto;
+}
+
+.gameButton{
+  width: 160px;
+  height: 160px;
+  border-width: 8px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 20px;
+}
+
+.w{
+  background-color: red;
+}
+
+.e{
+  background-color: blue;
+}
+
+.s{
+  background-color: yellow;
+}
+
+.d{
+  background-color: green;
+}
+
+.highlight{
+  border-color: white;
+  background-color: black;
+}
